@@ -8,7 +8,7 @@ People around the world have different opinions on the war. There are people who
 
 **Dataset Description**
 
-Data was collected from Twitter. I found the tweets on Twitter which are related to the Russia - Ukraine war and analyzed them. The data was collected mainly from the following hashtags - #SaveUkraine, #JusticeForUkraine, #UkraineRussiaWar, #RussiaUkraineConflict.  I have collected the data in the dates between 2022-08-05 and 2022-12-23. I collected 500 tweets in English language, from each hashtag and merged all the datasets into one dataframe which I have used further to analyze and answer the research questions, using Sentiment Intensity Analyzer to compare the polarity scores of different tweets into three categories - positive, negative and neutral.
+Data was collected from Twitter. I found the tweets on Twitter which are related to the Russia - Ukraine war and analyzed them. The data was collected mainly from the following hashtags - #SaveUkraine, #JusticeForUkraine, #UkraineRussiaWar, #RussiaUkraineConflict.  I have collected the data in the dates between 2022-08-05 and 2022-12-23. I collected 500 tweets in English language, from each hashtag and merged all the datasets into one dataframe. I cleaned the data by removing any hyperlinks and using stopwords, after which I analyze and answer the research questions, using Sentiment Intensity Analyzer to compare the polarity scores of different tweets into three categories - positive, negative and neutral.
 
 **Conclusion**
 
